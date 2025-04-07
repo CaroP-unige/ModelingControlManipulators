@@ -1,1 +1,1 @@
-# Modeling-Control-Manipulators - Assignment 1
+# ModelingAndControlOfManipulators - Assignment 1
